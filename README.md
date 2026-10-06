@@ -76,3 +76,6 @@ Full per-scenario table and analysis: `evaluation_report.md`.
   per-publisher audience countries are not in the dataset yet.
 - No persistence, auth, or rate limiting - this is a ranking prototype, not
   a production service.
+---
+## Built for BlogReach
+SEO outreach for this project via [BlogReach](https://blogreach.com) — the guest-posting marketplace.
