@@ -1,0 +1,45 @@
+id,name,url,niche,price_pkr,traffic_min,traffic_max,language,turnaround_days,domain_authority,active
+tech-01,TechDeals PK,https://techdealspk.example.com,technology,25000,100000,140000,en,2,38,yes
+tech-02,GadgetGuru,https://gadgetguru.example.com,technology,45000,180000,220000,en,3,47,yes
+tech-03,MobileMania,https://mobilemania.example.com,technology,18000,60000,80000,en+ur,2,31,yes
+tech-04,StartupTimes,https://startuptimes.example.com,technology,60000,250000,300000,en,4,55,yes
+tech-05,CodeCraft,https://codecraft.example.com,technology,12000,40000,55000,en,2,28,yes
+tech-06,OldTechBlog,https://oldtechblog.example.com,technology,15000,50000,65000,en,3,30,no
+tech-07,TechUrdu,https://techurdu.example.com,technology,11000,48000,62000,ur,2,27,yes
+fin-01,FinWise,https://finwise.example.com,finance,60000,180000,240000,en,3,52,yes
+fin-02,CryptoSlate Asia,https://cryptoslateasia.example.com,finance,95000,280000,350000,en,4,61,yes
+fin-03,RupeeRoute,https://rupeeroute.example.com,finance,20000,70000,90000,en+ur,2,33,yes
+fin-04,InvestDiary,https://investdiary.example.com,finance,35000,120000,150000,en,3,44,yes
+fin-05,HalalInvest,https://halalinvest.example.com,finance,26000,85000,110000,ur,3,35,yes
+food-01,Foodie Trails Lahore,https://foodietrails.example.com,food,15000,70000,100000,en+ur,2,31,yes
+food-02,DesiDastarkhwan,https://desidastarkhwan.example.com,food,10000,45000,60000,ur,2,26,yes
+food-03,KarachiFoodFest,https://karachifoodfest.example.com,food,22000,90000,120000,en,3,36,yes
+food-04,HealthyBites,https://healthybites.example.com,food,28000,110000,140000,en,3,39,yes
+food-05,DormantFoodie,https://dormantfoodie.example.com,food,12000,45000,60000,en,2,28,no
+health-01,SehatOnline,https://sehatonline.example.com,health,14000,50000,70000,ur+en,2,29,yes
+health-02,FitPakistan,https://fitpakistan.example.com,health,20000,80000,110000,en,2,34,yes
+health-03,HerbalHakeem,https://herbalhakeem.example.com,health,9000,30000,45000,ur,3,24,yes
+health-04,MindMatters,https://mindmatters.example.com,health,32000,130000,160000,en,3,42,yes
+travel-01,RoamPakistan,https://roampk.example.com,travel,16000,60000,85000,en+ur,2,30,yes
+travel-02,BackpackerDiaries,https://backpackerdiaries.example.com,travel,26000,100000,130000,en,3,37,yes
+travel-03,NorthernEscapes,https://northernescapes.example.com,travel,12000,40000,55000,ur,2,25,yes
+travel-04,LuxuryVoyager,https://luxuryvoyager.example.com,travel,55000,200000,260000,en,4,50,yes
+life-01,GharDecor,https://ghardecor.example.com,lifestyle,12000,38000,52000,ur+en,2,27,yes
+life-02,UrbanNest,https://urbannest.example.com,lifestyle,24000,95000,120000,en,3,38,yes
+life-03,MomLife PK,https://momlifepk.example.com,lifestyle,11000,42000,58000,ur,2,26,yes
+fashion-01,StyleStreets,https://stylestreets.example.com,fashion,30000,120000,150000,en,3,40,yes
+fashion-02,LibasLook,https://libaslook.example.com,fashion,14000,55000,75000,ur+en,2,29,yes
+fashion-03,HauteCouture PK,https://hautecouturepk.example.com,fashion,70000,260000,320000,en,4,58,yes
+game-01,GameZone PK,https://gamezonepk.example.com,gaming,30000,130000,170000,en+ur,2,41,yes
+game-02,PixelPlay,https://pixelplay.example.com,gaming,18000,65000,85000,en,2,32,yes
+game-03,EsportsArena,https://esportsarena.example.com,gaming,48000,190000,240000,en,3,49,yes
+edu-01,ParhoPakistan,https://parhopakistan.example.com,education,13000,50000,70000,ur+en,2,30,yes
+edu-02,SkillSprint,https://skillsprint.example.com,education,27000,105000,135000,en,3,39,yes
+edu-03,UniGuide,https://uniguide.example.com,education,9000,32000,45000,en,2,23,yes
+biz-01,StartupInsider,https://startupinsider.example.com,business,42000,160000,200000,en,3,46,yes
+biz-02,SME Toolkit,https://smetoolkit.example.com,business,16000,60000,80000,en+ur,2,31,yes
+biz-03,CorporateChronicle,https://corporatechronicle.example.com,business,80000,300000,380000,en,5,63,yes
+sports-01,CricketCraze,https://cricketcraze.example.com,sports,22000,150000,200000,en+ur,2,43,yes
+sports-02,KhelDuniya,https://khelduniya.example.com,sports,10000,55000,75000,ur,2,27,yes
+home-01,GharSajawat,https://gharsajawat.example.com,home,11000,38000,52000,ur,2,25,yes
+home-02,DIYDen,https://diyden.example.com,home,19000,70000,95000,en,3,33,yes
