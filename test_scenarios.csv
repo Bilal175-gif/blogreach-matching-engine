@@ -1,0 +1,21 @@
+scenario_id,advertiser_name,target_niches,budget_min,budget_max,min_traffic,min_da,languages,target_countries,expected_top_ids,notes
+S01,PhoneHub.pk (mobile retailer),technology,15000,35000,50000,25,en;ur,Pakistan,tech-01,Clear mid-budget English tech brief; TechDeals PK fits budget/traffic/DA best.
+S02,DesiSpice Foods,food,8000,12000,30000,20,ur,Pakistan,food-02,Urdu food brief on a tight budget; DesiDastarkhwan is the only Urdu food site in range.
+S03,InvestSmart App,finance,50000,100000,150000,45,en,Pakistan,fin-02,Premium finance brief; CryptoSlate Asia outranks FinWise on traffic and DA.
+S04,FitFuel Supplements,health,10000,15000,40000,25,ur,Pakistan,health-01,Urdu health brief; SehatOnline is primary-Urdu and in budget.
+S05,Northern Trails Co,travel,10000,15000,30000,20,ur,Pakistan,travel-03,Urdu travel brief; NorthernEscapes fits, RoamPakistan is over budget.
+S06,PixelForge Games,gaming,25000,35000,100000,35,en,Pakistan,game-01,English gaming brief; GameZone PK beats PixelPlay on traffic/DA.
+S07,VelvetWardrobe,fashion,25000,35000,100000,35,en,Pakistan,fashion-01,English fashion brief; StyleStreets is the only English fashion site in budget.
+S08,LearnLoop,education,20000,30000,80000,30,en,Pakistan,edu-02,English education brief; SkillSprint outranks ParhoPakistan on traffic/DA.
+S09,FoundersFund,business,35000,50000,120000,40,en,Pakistan,biz-01,English business brief; StartupInsider fits, CorporateChronicle is over budget.
+S10,CricBet Sports,sports,15000,25000,100000,35,en,Pakistan,sports-01,English sports brief; CricketCraze is the only fit.
+S11,GharNeeds,home,8000,15000,30000,20,ur,Pakistan,home-01,Urdu home brief; GharSajawat fits, DIYDen is over budget and English-only.
+S12,Nestlings,lifestyle,11000,12000,35000,25,ur,Pakistan,life-03,Tight Urdu lifestyle brief; MomLife PK edges GharDecor on traffic.
+S13,TechBazaar,technology,8000,15000,30000,20,ur,Pakistan,tech-07,Urdu tech brief; TechUrdu is the only Urdu tech site in budget.
+S14,HalalWealth,finance,20000,30000,60000,30,ur,Pakistan,fin-05,Urdu finance brief; HalalInvest is primary-Urdu, RupeeRoute is primary-English.
+S15,NutriBox,food;health,20000,30000,80000,30,en,Pakistan,food-04,Multi-niche brief; HealthyBites outranks FitPakistan on traffic and DA.
+S16,TinyStartup,technology,3000,5000,20000,15,en,Pakistan,NONE,Conflict case: budget far below every English tech publisher; expect zero matches plus a budget warning.
+S17,RangRiwayat,fashion,20000,80000,50000,25,ur,Pakistan,fashion-02,Urdu fashion brief with wide budget; LibasLook is the only Urdu fashion site.
+S18,PlayTech Arena,technology;gaming,40000,70000,150000,40,en,Pakistan,tech-04,Premium multi-niche brief; StartupTimes leads on traffic and DA.
+S19,LuxeEscapes,travel,50000,60000,150000,45,en,Pakistan,travel-04,Premium travel brief; LuxuryVoyager is the only fit.
+S20,StudyBuddy,education,5000,10000,20000,15,en,Pakistan,edu-03,Budget education brief; UniGuide fits, ParhoPakistan is over budget.
